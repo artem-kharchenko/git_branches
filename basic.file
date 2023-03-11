@@ -8,4 +8,8 @@ Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
  containing Lorem Ipsum passages, and more recently with desktop publishing
  software like Aldus PageMaker including versions of Lorem Ipsum.
  def edited()
+<<<<<<< HEAD
 "TBD details" 
+=======
+march 11th update
+>>>>>>> f8453930aa3aa882a343ba9569d2c3a724884a88
